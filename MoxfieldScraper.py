@@ -48,8 +48,5 @@ for line in lines:
         file.write(deck)
 
     print(str(count) + "/" + str(len(lines)))
-    # f = open("decks/" + str(count) + ".txt", "w")
-    # f.write(deck)
-    # f.close
 
 input()
