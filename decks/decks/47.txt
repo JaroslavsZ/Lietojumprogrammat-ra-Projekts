@@ -1,0 +1,94 @@
+1 Aether Vial
+1 Ajani, Caller of the Pride
+1 Arid Mesa
+1 Arwen, Mortal Queen
+1 Avacyn's Pilgrim
+1 Biophagus
+1 Birds of Paradise
+1 Blinkmoth Nexus
+1 Boseiju, Who Endures
+1 Cankerbloom
+1 Cave of the Frost Dragon
+1 Collector Ouphe
+1 Court of Garenbrig
+1 Crop Rotation
+1 Delighted Halfling
+1 Demolition Field
+1 Dusk Rose Reliquary
+1 Eiganjo, Seat of the Empire
+1 Eladamri's Call
+1 Eldritch Evolution
+1 Elesh Norn
+1 Elvish Mystic
+1 Ephemerate
+1 Extraction Specialist
+1 Fabled Passage
+1 Fiend Artisan
+1 Fight as One
+5 Forest
+1 Gaddock Teeg
+1 Gala Greeters
+1 Get Lost
+1 Giver of Runes
+1 Haywire Mite
+1 Helping Hand
+1 Hexdrinker
+1 Horizon Canopy
+1 Ignoble Hierarch
+1 Karakas
+1 Knight of the Reliquary
+1 Kutzil, Malamet Exemplar
+1 Lion Sash
+1 Llanowar Elves
+1 Lotus Petal
+1 Lovestruck Beast
+1 Luminarch Aspirant
+1 Lurrus of the Dream-Den
+1 Mana Vault
+1 Mirrex
+1 Misty Rainforest
+1 Mother of Runes
+1 Mox Emerald
+1 Mox Pearl
+1 Mutavault
+1 Nissa, Voice of Zendikar
+1 Noble Hierarch
+1 Palace Jailer
+1 Path to Exile
+3 Plains
+1 Prismatic Vista
+1 Pugnacious Hammerskull
+1 Questing Beast
+1 Recommission
+1 Royal Treatment
+1 Samwise the Stouthearted
+1 Savannah
+1 Scavenging Ooze
+1 Scryb Ranger
+1 Seasoned Dungeoneer
+1 Sentinel of the Nameless City
+1 Shadowspear
+1 Skrelv, Defector Mite
+1 Skullclamp
+1 Snakeskin Veil
+1 Stalking Leonin
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Tamiyo's Safekeeping
+1 Tarmogoyf
+1 Temple Garden
+1 Thalia, Guardian of Thraben
+1 Thalia, Heretic Cathar
+1 The Mycosynth Gardens
+1 Thrun, the Last Troll
+1 Treetop Village
+1 Umezawa's Jitte
+1 Undermountain Adventurer
+1 Urza's Saga
+1 Verdant Catacombs
+1 Voice of Resurgence
+1 Wasteland
+1 White Plume Adventurer
+1 Windswept Heath
+1 Wooded Bastion
+1 Yavimaya, Cradle of Growth

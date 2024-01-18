@@ -1,0 +1,100 @@
+1 Abrupt Decay
+1 Academy Rector
+1 Anointed Peacekeeper
+1 Arid Mesa
+1 Atraxa, Grand Unifier
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Bayou
+1 Birds of Paradise
+1 Birthing Pod
+1 Bloodstained Mire
+1 Blooming Marsh
+1 Boseiju, Who Endures
+1 Carrion Feeder
+1 Cauldron Familiar
+1 Chord of Calling
+1 Crop Rotation
+1 Darkbore Pathway
+1 Deathrite Shaman
+1 Delighted Halfling
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dryad Arbor
+1 Duress
+1 Eiganjo, Seat of the Empire
+1 Eladamri's Call
+1 Eldritch Evolution
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Endurance
+1 Fiend Artisan
+1 Finale of Devastation
+1 Flooded Strand
+1 Forest
+1 Fyndhorn Elves
+1 Gingerbrute
+1 Godless Shrine
+1 Green Sun's Zenith
+1 Grist, the Hunger Tide
+1 Haywire Mite
+1 Horizon Canopy
+1 Ignoble Hierarch
+1 Indatha Triome
+1 Inquisition of Kozilek
+1 Karakas
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Marsh Flats
+1 Mind Twist
+1 Misty Rainforest
+1 Natural Order
+1 Noble Hierarch
+1 Nurturing Peatland
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Overgrown Tomb
+1 Pattern of Rebirth
+1 Phyrexian Tower
+1 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Protean Hulk
+1 Qasali Pridemage
+1 Razorverge Thicket
+1 Reanimate
+1 Recruiter of the Guard
+1 Samwise Gamgee
+1 Samwise the Stouthearted
+1 Savannah
+1 Scavenging Ooze
+1 Scrubland
+1 Seasoned Dungeoneer
+1 Skullclamp
+1 Skyclave Apparition
+1 Solitude
+1 Spara's Headquarters
+1 Strip Mine
+1 Sunpetal Grove
+1 Survival of the Fittest
+1 Swamp
+1 Swords to Plowshares
+1 Sylvan Safekeeper
+1 Temple Garden
+1 Thalia, Heretic Cathar
+1 The Huntsman's Redemption
+1 The One Ring
+1 Thoughtseize
+1 Titania, Protector of Argoth
+1 Troll of Khazad-dûm
+1 Undermountain Adventurer
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Viscera Seer
+1 Voice of Resurgence
+1 Wasteland
+1 White Plume Adventurer
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya, Cradle of Growth

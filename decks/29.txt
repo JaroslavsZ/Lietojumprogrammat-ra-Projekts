@@ -1,0 +1,99 @@
+1 Academy Ruins
+1 Aether Spellbomb
+1 Ancient Den
+1 Ancient Tomb
+1 Arid Mesa
+1 Balance
+1 Brainstorm
+1 Breya's Apprentice
+1 Chromatic Star
+1 Comet, Stellar Pup
+1 Emry, Lurker of the Loch
+1 Enlightened Tutor
+1 Expedition Map
+1 Experimental Synthesizer
+1 Expressive Iteration
+1 Fable of the Mirror-Breaker
+1 Flooded Strand
+1 Forth Eorlingas!
+1 Glimmervoid
+1 Goblin Engineer
+1 Goblin Welder
+1 Great Furnace
+1 Grim Monolith
+1 Hallowed Fountain
+1 Implement of Improvement
+1 Intuition
+1 Kappa Cannoneer
+1 Karakas
+1 Karn, Scion of Urza
+1 Lightning Bolt
+1 Lórien Revealed
+1 Lotus Petal
+1 Mana Vault
+1 Manifold Key
+1 Marsh Flats
+1 Minamo, School at Water's Edge
+1 Mishra's Bauble
+1 Misty Rainforest
+1 Mox Opal
+1 Nettlecyst
+1 Oswald Fiddlebender
+1 Otawara, Soaring City
+1 Phyrexian Furnace
+1 Plateau
+1 Polluted Delta
+1 Ponder
+1 Portable Hole
+1 Preordain
+1 Prismatic Ending
+1 Pyrite Spellbomb
+1 Ragavan, Nimble Pilferer
+1 Ratchet, Field Medic
+1 Raugrin Triome
+1 Razortide Bridge
+1 Reshape
+1 Retrofitter Foundry
+1 Saheeli, Sublime Artificer
+1 Sai, Master Thopterist
+1 Scalding Tarn
+1 Seachrome Coast
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Sevinne's Reclamation
+1 Shadowspear
+1 Shorikai, Genesis Engine
+1 Silverbluff Bridge
+1 Skullclamp
+2 Snow-Covered Island
+1 Snow-Covered Plains
+1 Soul-Guide Lantern
+1 Spire of Industry
+1 Spirebluff Canal
+1 Staff of the Storyteller
+1 Steam Vents
+1 Sword of the Meek
+1 Swords to Plowshares
+1 Teferi, Time Raveler
+1 Teferi, Who Slows the Sunset
+1 Tezzeret the Seeker
+1 The One Ring
+1 Third Path Iconoclast
+1 Thopter Foundry
+1 Time Vault
+1 Tolarian Academy
+1 Transmute Artifact
+1 Tribute Mage
+1 Trinket Mage
+1 Tundra
+1 Unholy Heat
+1 Urza, Lord High Artificer
+1 Urza's Bauble
+1 Urza's Saga
+1 Volcanic Island
+1 Voltaic Key
+1 Voltaic Servant
+1 Whir of Invention
+1 Windswept Heath
+1 Wizard's Rockets
+1 Wooded Foothills

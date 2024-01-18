@@ -1,0 +1,90 @@
+1 All-Seeing Arbiter
+1 Animate Dead
+1 Archon of Cruelty
+1 Bazaar of Baghdad
+1 Bloodstained Mire
+1 Brainstorm
+1 Cabal Therapy
+1 Careful Study
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chart a Course
+1 Clairvoyance
+1 Clearwater Pathway
+1 Cling to Dust
+1 Collective Brutality
+1 Consecrated Sphinx
+1 Consider
+1 Corpse Dance
+1 Cryptic Command
+1 Dance of the Dead
+1 Dark Ritual
+1 Darkslick Shores
+1 Daze
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dig Through Time
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Duress
+1 Entomb
+1 Exhume
+1 Flooded Strand
+1 Force of Will
+1 Force Spike
+1 Frantic Search
+1 Gigadrowse
+1 Gitaxian Probe
+1 Grave Titan
+1 Griselbrand
+1 Inquisition of Kozilek
+1 Intuition
+10 Island
+1 Jace, Vryn's Prodigy
+1 Jin-Gitaxias, Core Augur
+1 Kederekt Leviathan
+1 Lim-Dûl's Vault
+1 Lotus Petal
+1 Mana Drain
+1 Marsh Flats
+1 Mausoleum Secrets
+1 Mental Misstep
+1 Misty Rainforest
+1 Necromancy
+1 Otawara, Soaring City
+1 Peek
+1 Persist
+1 Polluted Delta
+1 Ponder
+1 Portent
+1 Preordain
+1 Prismatic Vista
+1 Profane Tutor
+1 Reanimate
+1 River of Tears
+1 Sapphire Charm
+1 Scalding Tarn
+1 Serum Visions
+1 Shallow Grave
+1 Shipwreck Marsh
+1 Show and Tell
+1 Sleight of Hand
+1 Spell Pierce
+1 Stifle
+1 Stitch Together
+1 Stubborn Denial
+1 Sunken Ruins
+2 Swamp
+1 Tainted Indulgence
+1 Thought Scour
+1 Thoughtseize
+1 Trench Gorger
+1 Underground River
+1 Underground Sea
+1 Unmarked Grave
+1 Verdant Catacombs
+1 Waker of Waves
+1 Wasteland
+1 Watery Grave
+1 Wipe Away
+1 Worldgorger Dragon

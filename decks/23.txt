@@ -1,0 +1,100 @@
+1 Abrupt Decay
+1 Arid Mesa
+1 Badlands
+1 Baleful Strix
+1 Bayou
+1 Bitter Triumph
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Brainstorm
+1 Brazen Borrower
+1 Breeding Pool
+1 Cling to Dust
+1 Consider
+1 Darkslick Shores
+1 Daze
+1 Deathrite Shaman
+1 Demonic Tutor
+1 Dreadhorde Arcanist
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Duress
+1 Evasive Action
+1 Expressive Iteration
+1 Faerie Mastermind
+1 Fatal Push
+1 Fiery Islet
+1 Fire/Ice
+1 Flame Slash
+1 Flooded Strand
+1 Force of Negation
+1 Force of Will
+1 Forest
+1 Forked Bolt
+1 Fury
+1 Gitaxian Probe
+1 Haywire Mite
+1 Hullbreacher
+1 Inquisition of Kozilek
+1 Intuition
+1 Island
+1 Jace, the Mind Sculptor
+1 Kaito, Dancing Shadow
+1 Ketria Triome
+1 Ledger Shredder
+1 Leovold, Emissary of Trest
+1 Life from the Loam
+1 Lightning Bolt
+1 Lórien Revealed
+1 Lose Focus
+1 Mana Leak
+1 Marsh Flats
+1 Mawloc
+1 Mental Misstep
+1 Minsc & Boo, Timeless Heroes
+1 Misty Rainforest
+1 Mountain
+1 Murktide Regent
+1 Mystic Sanctuary
+1 Nihil Spellbomb
+1 Oko, Thief of Crowns
+1 Opposition Agent
+1 Opt
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Questing Druid
+1 Ragavan, Nimble Pilferer
+1 Remand
+1 Scalding Tarn
+1 Shadowspear
+1 Snapcaster Mage
+1 Snuff Out
+1 Spell Pierce
+1 Spell Snare
+1 Spirebluff Canal
+1 Steam Vents
+1 Stifle
+1 Strip Mine
+1 Swamp
+1 Tainted Pact
+1 Tarmogoyf
+1 Thoughtseize
+1 Treasure Cruise
+1 Tropical Island
+1 Underground Sea
+1 Unholy Heat
+1 Uro, Titan of Nature's Wrath
+1 Urza's Saga
+1 Verdant Catacombs
+1 Volcanic Island
+1 Wasteland
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrenn and Six
+1 Xander's Lounge
+1 Zagoth Triome

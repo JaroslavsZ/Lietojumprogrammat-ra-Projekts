@@ -1,0 +1,100 @@
+1 Abrupt Decay
+1 Arid Mesa
+1 Bayou
+1 Bloodstained Mire
+1 Blooming Marsh
+1 Botanical Sanctum
+1 Brainstorm
+1 Breeding Pool
+1 Cauldron Familiar
+1 Chrome Mox
+1 City of Brass
+1 Consider
+1 Darkslick Shores
+1 Daze
+1 Dimir Infiltrator
+1 Duress
+1 Eladamri's Call
+1 Experimental Augury
+1 Fatal Push
+1 Fierce Empath
+1 Flash
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gemstone Mine
+1 Gingerbrute
+1 Gitaxian Probe
+1 Godless Shrine
+1 Grim Tutor
+1 Hallowed Fountain
+1 Imperial Seal
+1 Impulse
+1 Inquisition of Kozilek
+1 Island
+1 Lat-Nam's Legacy
+1 Lim-Dûl's Vault
+1 Lotus Petal
+1 Mana Confluence
+1 Marsh Flats
+1 Mental Misstep
+1 Merchant Scroll
+1 Miscast
+1 Mishra's Bauble
+1 Misty Rainforest
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Noxious Revival
+1 Opt
+1 Orim's Chant
+1 Overgrown Tomb
+1 Pact of Negation
+1 Path to Exile
+1 Peek
+1 Polluted Delta
+1 Ponder
+1 Portent
+1 Preordain
+1 Prismatic Ending
+1 Prismatic Vista
+1 Profane Tutor
+1 Protean Hulk
+1 Regrowth
+1 Rhystic Tutor
+1 Samwise Gamgee
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Seachrome Coast
+1 See Beyond
+1 Serum Visions
+1 Shimmer of Possibility
+1 Shred Memory
+1 Silence
+1 Sleight of Hand
+1 Snapcaster Mage
+1 Solve the Equation
+1 Sorcerous Sight
+1 Spell Pierce
+1 Summoner's Pact
+1 Swamp
+1 Swords to Plowshares
+1 Sylvan Safekeeper
+1 Sylvan Tutor
+1 Teferi, Time Raveler
+1 Thoughtseize
+1 Treasured Find
+1 Tropical Island
+1 Tundra
+1 Underground River
+1 Underground Sea
+1 Urza's Bauble
+1 Veil of Summer
+1 Verdant Catacombs
+1 Viscera Seer
+1 Watery Grave
+1 Wild Cantor
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor

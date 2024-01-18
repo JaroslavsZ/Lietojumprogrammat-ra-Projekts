@@ -1,0 +1,95 @@
+1 Animate Dead
+1 Arid Mesa
+1 Ayara's Oathsworn
+1 Badlands
+1 Blackcleave Cliffs
+1 Blightstep Pathway
+1 Blood Crypt
+1 Blood Moon
+1 Bloodchief's Thirst
+1 Bloodstained Mire
+1 Bloodtithe Harvester
+1 Bonecrusher Giant
+1 Burst Lightning
+1 Castle Locthwain
+1 Caves of Chaos Adventurer
+1 Chain Lightning
+1 Chandra, Torch of Defiance
+1 Cut/Ribbons
+1 Cut Down
+1 Dark Confidant
+1 Dauthi Voidwalker
+1 Deathrite Shaman
+1 Demonic Tutor
+1 Den of the Bugbear
+1 Dragon's Rage Channeler
+1 Dragonskull Summit
+1 Dread Fugue
+1 Dreadbore
+1 Dreadhorde Arcanist
+1 Duress
+1 Evolved Sleeper
+1 Fable of the Mirror-Breaker
+1 Fatal Push
+1 Flame Slash
+1 Florian, Voldaren Scion
+1 Forked Bolt
+1 Fury
+1 Glint-Sleeve Siphoner
+1 Glorybringer
+1 Go for the Throat
+1 Goblin Rabblemaster
+1 Graven Cairns
+1 Graveyard Trespasser
+1 Grief
+1 Haunted Ridge
+1 Heartless Act
+1 Hive of the Eye Tyrant
+1 Hymn to Tourach
+1 Inquisition of Kozilek
+1 Kolaghan's Command
+1 Kroxa, Titan of Death's Hunger
+1 Laelia, the Blade Reforged
+1 Lightning Bolt
+1 Liliana of the Veil
+1 Liliana, the Last Hope
+1 Magus of the Moon
+1 Marsh Flats
+1 Mount Doom
+2 Mountain
+1 Mox Jet
+1 Mox Ruby
+1 Murderous Rider
+1 Night's Whisper
+1 Ob Nixilis, the Adversary
+1 Oliphaunt
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Passageway Seer
+1 Polluted Delta
+1 Prismatic Vista
+1 Ragavan, Nimble Pilferer
+1 Ravenloft Adventurer
+1 Reanimate
+1 Scalding Tarn
+1 Seasoned Pyromancer
+1 Sheoldred, the Apocalypse
+1 Snuff Out
+1 Sokenzan, Crucible of Defiance
+1 Sorin the Mirthless
+1 Spawn of Mayhem
+1 Sulfurous Springs
+5 Swamp
+1 Takenuma, Abandoned Mire
+1 Tenacious Underdog
+1 Terminate
+1 The One Ring
+1 Thoughtseize
+1 Troll of Khazad-dûm
+1 Unearth
+1 Unholy Heat
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Wasteland
+1 Wooded Foothills
+1 Young Pyromancer

@@ -1,0 +1,95 @@
+1 Ancestral Recall
+1 Ashiok, Dream Render
+1 Baleful Strix
+1 Bloodchief's Thirst
+1 Bloodstained Mire
+1 Brainstorm
+1 Brazen Borrower
+1 Cemetery Illuminator
+1 Chrome Host Seedshark
+1 Cling to Dust
+1 Collective Brutality
+1 Consider
+1 Counterspell
+1 Creeping Tar Pit
+1 Cut Down
+1 Darkslick Shores
+1 Dauthi Voidwalker
+1 Daze
+1 Deathrite Shaman
+1 Dress Down
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Duress
+1 Eliminate
+1 Ethereal Forager
+1 Fact or Fiction
+1 Faerie Mastermind
+1 Fall from Favor
+1 Fatal Push
+1 Flooded Strand
+1 Force of Negation
+1 Force of Will
+1 Gitaxian Probe
+1 Gush
+1 Hall of Storm Giants
+1 Halo Forager
+1 Hive of the Eye Tyrant
+1 Hymn to Tourach
+1 Inquisition of Kozilek
+1 Kaito, Dancing Shadow
+1 Karakas
+1 Ledger Shredder
+1 Library of Alexandria
+1 Lórien Revealed
+1 Lose Focus
+1 Mana Drain
+1 Mana Leak
+1 Marsh Flats
+1 Mental Misstep
+1 Mental Note
+1 Mercurial Spelldancer
+1 Mind Twist
+1 Misty Rainforest
+1 Murktide Regent
+1 Mystic Confluence
+1 Mystic Sanctuary
+1 Opposition Agent
+1 Opt
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Reanimate
+1 Remand
+1 Sauron's Ransom
+1 Scalding Tarn
+1 Sheoldred, the Apocalypse
+1 Sheoldred's Edict
+1 Shipwreck Marsh
+1 Snapcaster Mage
+4 Snow-Covered Island
+3 Snow-Covered Swamp
+1 Snuff Out
+1 Spell Pierce
+1 Spell Snare
+1 Starscream, Power Hungry
+1 Stern Scolding
+1 Stifle
+1 Subtlety
+1 Sunken Hollow
+1 Sunken Ruins
+1 Thought Scour
+1 Thoughtseize
+1 Treasure Cruise
+1 Tropical Island
+1 True-Name Nemesis
+1 Underground River
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Vendilion Clique
+1 Verdant Catacombs
+1 Wasteland
+1 Watery Grave

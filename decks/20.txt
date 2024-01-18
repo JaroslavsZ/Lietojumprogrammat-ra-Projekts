@@ -1,0 +1,98 @@
+1 Academy Ruins
+1 Aether Spellbomb
+1 Ancient Den
+1 Ancient Tomb
+1 Arid Mesa
+1 Baleful Strix
+1 Beseech the Mirror
+1 Bloodchief's Thirst
+1 Bloodstained Mire
+1 Brainstorm
+1 Clearwater Pathway
+1 Counterspell
+1 Creeping Tar Pit
+1 Crucible of Worlds
+1 Darkslick Shores
+1 Dimir Infiltrator
+1 Dismember
+1 Dovin's Veto
+1 Duress
+1 Emry, Lurker of the Loch
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Fabricate
+1 Fatal Push
+1 Flooded Strand
+1 Force of Negation
+1 Force of Will
+1 Godless Shrine
+1 Grindstone
+1 Hallowed Fountain
+1 Inquisition of Kozilek
+1 Inventors' Fair
+2 Island
+1 Jace, the Mind Sculptor
+1 Karakas
+1 Lotus Petal
+1 Lurrus of the Dream-Den
+1 Mana Drain
+1 Manifold Key
+1 Marsh Flats
+1 Mental Misstep
+1 Minamo, School at Water's Edge
+1 Mishra's Bauble
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Nettlecyst
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Painter's Servant
+1 Pentad Prism
+1 Plains
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Ending
+1 Prismatic Vista
+1 Raffine's Tower
+1 Remand
+1 Reshape
+1 River of Tears
+1 Saheeli, Sublime Artificer
+1 Scrubland
+1 Seachrome Coast
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Serum Visions
+1 Sheoldred's Edict
+1 Shorikai, Genesis Engine
+1 Silent Clearing
+1 Snapcaster Mage
+1 Spell Pierce
+1 Spell Snare
+2 Swamp
+1 Sword of the Meek
+1 Swords to Plowshares
+1 Teferi, Time Raveler
+1 The One Ring
+1 Thopter Foundry
+1 Thought Monitor
+1 Thoughtcast
+1 Thoughtseize
+1 Time Vault
+1 Toxic Deluge
+1 Trinket Mage
+1 Underground River
+1 Urza, Lord High Artificer
+1 Urza's Saga
+1 Vampiric Tutor
+1 Vault of Whispers
+1 Verdant Catacombs
+1 Vindicate
+1 Voltaic Key
+1 Voltaic Servant
+1 Walking Ballista
+1 Wasteland
+1 Watery Grave
+1 Whir of Invention

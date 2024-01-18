@@ -1,0 +1,82 @@
+1 Arc Trail
+1 Arid Mesa
+1 Ash Zealot
+1 Black Lotus
+1 Bloodfeather Phoenix
+1 Bloodstained Mire
+1 Bloodthirsty Adversary
+1 Bomat Courier
+1 Bonecrusher Giant
+1 Burst Lightning
+1 Chain Lightning
+1 Charming Scoundrel
+1 Den of the Bugbear
+1 Dragon's Rage Channeler
+1 Dreadhorde Arcanist
+1 Earthshaker Khenra
+1 Eidolon of the Great Revel
+1 Embereth Veteran
+1 Falkenrath Gorger
+1 Falkenrath Pit Fighter
+1 Feldon, Ronom Excavator
+1 Fiery Islet
+1 Fire Ambush
+1 Fireblast
+1 Firebolt
+1 Firedrinker Satyr
+1 Forked Bolt
+1 Galvanic Blast
+1 Goblin Guide
+1 Icehide Golem
+1 Incendiary Flow
+1 Incinerate
+1 Inti, Seneschal of the Sun
+1 Jackal Pup
+1 Kargan Intimidator
+1 Kari Zev, Skyship Raider
+1 Khenra Spellspear
+1 Kumano Faces Kakkazan
+1 Laelia, the Blade Reforged
+1 Lava Dart
+1 Lava Spike
+1 Light Up the Stage
+1 Lightning Bolt
+1 Lightning Strike
+1 Monastery Swiftspear
+1 Mox Ruby
+1 Mutagenic Growth
+1 Orcish Hellraiser
+1 Phoenix Chick
+1 Pillar of Flame
+1 Play with Fire
+1 Price of Progress
+1 Prismatic Vista
+1 Radha's Firebrand
+1 Ragavan, Nimble Pilferer
+1 Rakdos Cackler
+1 Rampaging Ferocidon
+1 Ramunap Ruins
+1 Ranger's Firebrand
+1 Rift Bolt
+1 Robber of the Rich
+1 Roil Eruption
+1 Roiling Vortex
+1 Scalding Tarn
+1 Seal of Fire
+1 Searing Blaze
+1 Searing Spear
+1 Shock
+1 Skewer the Critics
+1 Skullcrack
+19 Snow-Covered Mountain
+1 Soul-Scar Mage
+1 Stromkirk Noble
+1 Sulfuric Vortex
+1 Sunbaked Canyon
+1 Tarfire
+1 Viashino Pyromancer
+1 Volcanic Hammer
+1 Wasteland
+1 Wild Slash
+1 Wooded Foothills
+1 Zurgo Bellstriker

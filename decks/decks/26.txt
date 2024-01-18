@@ -1,0 +1,99 @@
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Botanical Sanctum
+1 Brainstorm
+1 Breeding Pool
+1 Bring to Light
+1 Brotherhood's End
+1 Capture of Jingzhou
+1 Chandra, Hope's Beacon
+1 Counterspell
+1 Crop Rotation
+1 Cryptic Command
+1 Dig Through Time
+1 Dress Down
+1 Endurance
+1 Eternal Witness
+1 Explore
+1 Expressive Iteration
+1 Fable of the Mirror-Breaker
+1 Fact or Fiction
+1 Farseek
+1 Field of the Dead
+1 Fire/Ice
+1 Flame of Anor
+1 Flooded Strand
+1 Force of Negation
+1 Force of Will
+1 Fury
+1 God-Eternal Kefnet
+1 Growth Spiral
+1 Hurkyl, Master Wizard
+1 Ice-Fang Coatl
+1 Island
+1 Jace, the Mind Sculptor
+1 Jace, Vryn's Prodigy
+1 Karakas
+1 Ketria Triome
+1 Klothys, God of Destiny
+1 Lightning Bolt
+1 Lórien Revealed
+1 Merchant Scroll
+1 Mikokoro, Center of the Sea
+1 Minsc & Boo, Timeless Heroes
+1 Misty Rainforest
+1 Moment's Peace
+1 Mountain
+1 Mystic Confluence
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Nature's Lore
+1 Nexus of Fate
+1 Oko, Thief of Crowns
+1 Otawara, Soaring City
+1 Personal Tutor
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Primordial Mist
+1 Prismatic Vista
+1 Raugrin Triome
+1 Regrowth
+1 Remand
+1 Savor the Moment
+1 Scalding Tarn
+1 Scapeshift
+1 Search for Tomorrow
+1 Seasons Past
+1 Sheltered Thicket
+1 Snapcaster Mage
+1 Snow-Covered Forest
+2 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Solve the Equation
+1 Steam Vents
+1 Stomping Ground
+1 Sylvan Caryatid
+1 Sylvan Library
+1 Taiga
+1 Temporal Manipulation
+1 Temporal Mastery
+1 The One Ring
+1 Three Visits
+1 Time Walk
+1 Time Warp
+1 Tropical Island
+1 Unholy Heat
+1 Uro, Titan of Nature's Wrath
+1 Valakut, the Molten Pinnacle
+1 Verdant Catacombs
+1 Volatile Fjord
+1 Volcanic Island
+1 Wasteland
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrenn and Six
+1 Xander's Lounge
+1 Yavimaya, Cradle of Growth
