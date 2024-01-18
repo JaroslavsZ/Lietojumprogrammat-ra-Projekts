@@ -4,6 +4,8 @@
 
 Mans Projekts sastāv no divām programām MoxfieldScraper.py un DeckAnalyzer.py. Programma MoxfieldScraper.py izmanto mājaslapu moxfield.com lai nokopētu no tās Magic: the Gathering kavas un tos ieraksta failos. Programma DeckAnalyzer.py ievada mapi ar kavu failiem un izvada vispopulārākās kārtis.
 
+Fails DecSourceMini.txt ir domāts testēšanas nolūkiem.
+
 ## MoxfieldScraper.py
 <b>selenium bibliotēka:</b> Tiek izmantota, lai automatizētu pārlūkprogrammas darbību un veiktu darbības lapās, piemēram, noklikšķinot uz pogas vai ievadot informāciju.
 
