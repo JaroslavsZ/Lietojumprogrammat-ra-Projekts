@@ -19,7 +19,7 @@ for filename in os.listdir(directory):
 count = 0
 for w in sorted(cards, key=cards.get, reverse=True):
     if count != 0:
-        print(w[2:-1], cards[w])
+        print(count, w[2:-1], cards[w])
     count = count + 1
-    if count > 31:
+    if count > 30:
         break
